@@ -10,7 +10,7 @@ This project contains a Power BI dashboard analyzing sales data using the Supers
 
 ## 📁 Files
 - `Superstore_Sales_Analysis.pbix` – Main Power BI file
-- `dashboard-preview.png` – Screenshot of the dashboard
+- `dashboard-preview.png` – Dataset
 
 ## 📊 Tools Used
 - Power BI Desktop
@@ -18,8 +18,20 @@ This project contains a Power BI dashboard analyzing sales data using the Supers
 
 ## 📸 Preview
 
-![Dashboard Preview](dashboard-preview.png)
+<img width="1278" height="706" alt="dashboard-preview" src="https://github.com/user-attachments/assets/1c2e25b7-7337-409f-aba2-efcc6ff6e4e6" />
+
 
 ## 💡 Dataset Source
 [Superstore Sales Dataset on Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
+
+## 🤝 Contributing
+Contributions are welcome!
+Feel free to fork the repository, improve the game, and open a pull request. Let's grow this classic game together!
+
+## 📄 License
+This project is licensed under the [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+
+## 👩‍💻 Author
+**Aarya Mehta**  
+🔗 [GitHub Profile](https://github.com/AaryaMehta2506)
