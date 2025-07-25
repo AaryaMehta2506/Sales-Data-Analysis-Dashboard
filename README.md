@@ -1,4 +1,5 @@
-# Power BI Sales Dashboard
+Data Analytics Beginners Project
+# Power BI Sales Dashboard                
 This project contains a Power BI dashboard analyzing sales data using the Superstore dataset.
 
 ## 🔍 Features
