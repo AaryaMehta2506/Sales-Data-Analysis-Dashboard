@@ -10,7 +10,7 @@ This project contains a Power BI dashboard analyzing sales data using the Supers
 
 ## 📁 Files
 - `Superstore_Sales_Analysis.pbix` – Main Power BI file
-- `dashboard-preview.png` – Dataset
+- `Sample - Superstore.csv` – Dataset
 
 ## 📊 Tools Used
 - Power BI Desktop
